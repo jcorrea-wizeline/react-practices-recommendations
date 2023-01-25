@@ -1,7 +1,5 @@
 # React JS structure
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## How to structure a react app
 
 There is not a silver bullet answer to this question, always is going to depend on the project requeriments. The next explanation is a recommendation considering different aspects of a project.
